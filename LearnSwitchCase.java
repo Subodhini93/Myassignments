@@ -26,6 +26,7 @@ public class LearnSwitchCase {
 			
 		default:
 			System.out.println("Opera browser launched");
+			break;
 		}
 
 	}
