@@ -19,3 +19,6 @@ public class ChildClassBMW extends ParentClassCar {
 // here u can see when u extend to parent class u get the properties of parent and grand parent 
 // because when you go to the parent class there the parent class is already extended to grandparent
 // hence we get here four properties
+
+// note u can able to extend only one class to another class
+// child extends parent extends grandparent throws error 
